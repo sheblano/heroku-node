@@ -1,0 +1,12 @@
+{
+    "JWT_KEY": "thispasscodeissecret",
+    "USER_BASE_ROUTE": "/api/user",
+    "LOCAL": {
+        "SERVER_PORT": "3003",
+        "MONGO_ATLAS_PW": "admin123"
+    },
+    "Server": {
+        "SERVER_PORT": "3003",
+        "MONGO_ATLAS_PW": "admin123"
+    }
+}
